@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/nurnadiahazhar/portfolio.git",
+  "homepage": "https://github.com/nurnadiahazhar/gatsby-starter-sasslan.git",
   "name": "gatsby-starter-sasslan",
   "description": "A minimalistic Gatsby starter with a pretyy design",
   "version": "1.0.0",
@@ -47,9 +47,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/a2zarslaan/gatsby-starter-sasslan"
+    "url": "https://github.com/nurnadiahazhar/gatsby-starter-sasslan.git"
   },
   "bugs": {
-    "url": "https://github.com/a2zarslaan/gatsby-starter-sasslan/issues"
+    "url": "https://github.com/nurnadiahazhar/gatsby-starter-sasslan.git/issues"
   }
 }
